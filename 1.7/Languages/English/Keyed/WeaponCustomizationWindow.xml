@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <MastercraftedArms.WeaponCustomizationWindow.Title>Customize Unique Weapon</MastercraftedArms.WeaponCustomizationWindow.Title>
+    <MastercraftedArms.WeaponCustomizationWindow.Label.WeaponName>Weapon Name:</MastercraftedArms.WeaponCustomizationWindow.Label.WeaponName>
+    <MastercraftedArms.WeaponCustomizationWindow.Label.SelectTraits>Quality: {0} - Select {1} trait(s)</MastercraftedArms.WeaponCustomizationWindow.Label.SelectTraits>
+    <MastercraftedArms.WeaponCustomizationWindow.Label.SelectTraitsCounter>Selected: {0}/{1}</MastercraftedArms.WeaponCustomizationWindow.Label.SelectTraitsCounter>
+    <MastercraftedArms.WeaponCustomizationWindow.Button.Confirm>Confirm</MastercraftedArms.WeaponCustomizationWindow.Button.Confirm>
+    <MastercraftedArms.WeaponCustomizationWindow.Messages.InvalidTraitNumber>You must select exactly {0} trait(s)</MastercraftedArms.WeaponCustomizationWindow.Messages.InvalidTraitNumber>
+    <MastercraftedArms.WeaponCustomizationWindow.Messages.SuccessMessage>Customized {0}!</MastercraftedArms.WeaponCustomizationWindow.Messages.SuccessMessage>
+</LanguageData>

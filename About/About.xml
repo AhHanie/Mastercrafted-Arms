@@ -5,9 +5,10 @@
     <packageId>sk.masterarms</packageId>
     <supportedVersions>
         <li>1.6</li>
+        <li>1.7</li>
     </supportedVersions>
     <description>Allows level 20 crafters to craft unique weapons. Includes configurable chance, optional customization, and a minimum quality threshold.</description>
-    <modVersion>1.0.0</modVersion>
+    <modVersion>1.1.0</modVersion>
     <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3712232510</url>
     <modDependencies>
         <li>

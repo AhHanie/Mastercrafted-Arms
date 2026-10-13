@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <MastercraftedArms.Settings.CraftChance.Label>Chance for a level 20 crafter to produce a unique weapon</MastercraftedArms.Settings.CraftChance.Label>
+    <MastercraftedArms.Settings.LevelRequirement.Label>Only pawns with Crafting level 20 can roll for a unique weapon.</MastercraftedArms.Settings.LevelRequirement.Label>
+    <MastercraftedArms.Settings.MinimumQuality.Label>Minimum crafted quality required</MastercraftedArms.Settings.MinimumQuality.Label>
+    <MastercraftedArms.Settings.ShowWeaponCustomizationMenu.Label>Show Weapon Customization Menu</MastercraftedArms.Settings.ShowWeaponCustomizationMenu.Label>
+    <MastercraftedArms.Settings.ShowWeaponCustomizationMenu.Tooltip>When enabled, a customization menu appears after creating a unique weapon so you can rename it and choose its traits.</MastercraftedArms.Settings.ShowWeaponCustomizationMenu.Tooltip>
+    <MastercraftedArms.Settings.CustomizationMenuNote.Label>These settings only apply when the Weapon Customization Menu is enabled:</MastercraftedArms.Settings.CustomizationMenuNote.Label>
+    <MastercraftedArms.Settings.MaxGeneratedTraits.Label>Max generated traits</MastercraftedArms.Settings.MaxGeneratedTraits.Label>
+    <MastercraftedArms.Settings.MaxGeneratedTraits.Tooltip>Controls how many non-conflicting traits are generated for the selection list.</MastercraftedArms.Settings.MaxGeneratedTraits.Tooltip>
+    <MastercraftedArms.Settings.MaxTraitSelections.Header>Max trait selections by quality:</MastercraftedArms.Settings.MaxTraitSelections.Header>
+    <MastercraftedArms.Settings.MaxTraitSelections.Low.Label>Awful-Good</MastercraftedArms.Settings.MaxTraitSelections.Low.Label>
+    <MastercraftedArms.Settings.MaxTraitSelections.Mid.Label>Excellent-Masterwork</MastercraftedArms.Settings.MaxTraitSelections.Mid.Label>
+    <MastercraftedArms.Settings.MaxTraitSelections.High.Label>Legendary</MastercraftedArms.Settings.MaxTraitSelections.High.Label>
+</LanguageData>
